@@ -23,7 +23,7 @@
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@ANUSER1/ACE-V1#index.js)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@Whitesrwhite/ALIZA-V1#index.js)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Whitesrwhite/ALIZA-V1.git)
      </div>
